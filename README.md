@@ -1,2 +1,2 @@
 # yasm
-/opt/yasm
+https://yasm.tortall.net/
